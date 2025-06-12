@@ -11,7 +11,7 @@ I’m a passionate mobile app developer, currently focused on **Flutter** and bu
 
 
 ## 👯 Let’s Connect!
-- 💼 [LinkedIn](https://www.linkedin.com/in/osama-morizk/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/osama-mohamed0/)
 - 🖥️ [GitHub](https://github.com/osamamorizk)
 - 🌐 [Facebook](https://www.facebook.com/osama.mrizk.7)
 - 📧 **Email**: osamarizk262@gmail.com
