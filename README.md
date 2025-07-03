@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Osama Mohamed Rizk
 ## 💻Aspiring Flutter Developer  
-🎓 **Electronics and Communication Engineering Student**  
+🎓 **Electronics and Communication Engineer**  
 
 
 
@@ -14,7 +14,7 @@ I’m a passionate mobile app developer, currently focused on **Flutter** and bu
 - 💼 [LinkedIn](https://www.linkedin.com/in/osama-mohamed0/)
 - 🖥️ [GitHub](https://github.com/osamamorizk)
 - 🌐 [Facebook](https://www.facebook.com/osama.mrizk.7)
-- 📧 **Email**: osamarizk262@gmail.com
+- 📧 **Email**: osamamohamedr1@gmail.com
 
 
 
