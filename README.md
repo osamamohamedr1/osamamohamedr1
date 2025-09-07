@@ -14,9 +14,9 @@ I’m a passionate mobile app developer, currently focused on **Flutter** and bu
 - 🕌 [Wdaker – Islamic App](https://github.com/osamamohamedr1/islamic_app)  
 
 ## 👯 Let’s Connect!
-- 💼 [LinkedIn](https://www.linkedin.com/in/osama-mohamed0/)
-- 🖥️ [GitHub](https://github.com/osamamorizk)
-- 🌐 [Facebook](https://www.facebook.com/osama.mrizk.7)
+- 💼 [LinkedIn](https://www.linkedin.com/in/osamamohamedr1/)
+- 🖥️ [GitHub](https://github.com/osamamohamedr1)
+- 🌐 [Facebook](https://www.facebook.com/osamamohamedr1)
 - 📧 **Email**: osamamohamedr1@gmail.com
 
 
