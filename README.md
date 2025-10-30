@@ -56,15 +56,6 @@
 - Passionate about creating innovative and impactful digital experiences
 
 
-🎯 **Core Expertise**  
-- 📱 Cross-platform mobile development with **Flutter**  
-- 🏗️ **Clean Architecture** & **Design Patterns**  
-- 🔄 State management using **BLoC**  
-- 🔌 **RESTful API** integration & consumption  
-- 💾 Local & cloud data management (**Hive**, **Firebase**)  
-- 🧪 Comprehensive testing (**Unit**, **Widget**, **Integration**)  
-- 🎨 Responsive & adaptive UI/UX design
-
 🌟 **What Drives Me**  
 > I'm passionate about transforming innovative ideas into scalable, user-centric mobile applications. With a strong foundation in software architecture and a commitment to best practices, I strive to deliver high-quality solutions that make a real impact.
 
@@ -100,13 +91,11 @@
     <img width="12" />
     <img src="https://img.shields.io/badge/Responsive_UI-02569B?style=for-the-badge&logo=flutter&logoColor=white" height="40" />
   <img width="12" />
-  <img src="https://img.shields.io/badge/Maps_API-4285F4?style=for-the-badge&logo=googlemaps&logoColor=white" height="40" />
+  <img src="https://img.shields.io/badge/Maps_API-02569B?style=for-the-badge&logo=googlemaps&logoColor=white" height="40" />
  <img width="12" />
   <img src="https://img.shields.io/badge/Local_Notifications-02569B?style=for-the-badge&logo=flutter&logoColor=white" height="40" />
-</p>
+ <img width="12" />
 
-### 🔧 Testing & Quality
-<p>
   <img src="https://img.shields.io/badge/Unit_Testing-02569B?style=for-the-badge&logo=flutter&logoColor=white" height="40" />
   <img width="12" />
   <img src="https://img.shields.io/badge/Widget_Testing-02569B?style=for-the-badge&logo=flutter&logoColor=white" height="40" />
