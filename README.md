@@ -37,7 +37,7 @@
 
 ## 🚀 About Me
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+<img align="right" alt="Coding" width="400" src="https://mktcix.com/wp-content/uploads/2025/02/mktcix-gif4.gif">
 
 <!-- <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Flutter+Developer+%F0%9F%9A%80;Mobile+App+Enthusiast+%F0%9F%93%B1;Clean+Architecture+Advocate+%F0%9F%8F%97%EF%B8%8F;AI+%26+Innovation+Explorer+%F0%9F%92%A1" alt="Typing SVG" />
@@ -189,14 +189,6 @@
 
 **A comprehensive mobile application providing AI-generated personalized fitness and nutrition solutions**
 
-✨ **Key Features:**
-- 🤖 AI-generated personalized workout plans
-- 📸 Food scanner with image analysis for nutritional information
-- 💬 Interactive AI chatbot for fitness guidance
-- 🎥 Exercise library with video tutorials
-- 🌙 Dark mode support
-- 🔔 Local notifications for reminders
-
 ---
 
 ### 💰 FinWise - Personal Finance Management
@@ -209,14 +201,6 @@
 
 **Smart personal finance management with comprehensive tracking and analytics**
 
-✨ **Key Features:**
-- 💳 Expense tracking with categorization
-- 📈 Income monitoring and management
-- 📊 Advanced data analytics and visualizations
-- 🌍 Multi-language support (English/Arabic)
-- 🌓 Dark mode
-- 💾 Local storage with Hive
-
 ---
 
 ### 🕌 Wdaker - Islamic Companion App
@@ -227,13 +211,6 @@
 
 
 **Complete Islamic companion with spiritual guidance and mosque finder**
-
-✨ **Key Features:**
-- 📿 Daily Azkar and Islamic remembrances
-- 🎧 Quran audio playback with recitations
-- 🗺️ Google Maps integration to locate nearby mosques
-- ⏰ Prayer time notifications
-- 🔔 Local notifications system
 
 ---
 
@@ -249,15 +226,6 @@
 <img src="https://img.shields.io/badge/Hive-E37400?style=flat-square" />
 
 **Modern e-commerce application with product management and shopping cart**
-
-✨ **Key Features:**
-- 📱 Product browsing and search functionality
-- 🔐 Firebase authentication
-- 🛒 Shopping cart with local storage (Hive)
-- 📦 Product management system
-- 👤 User profile management
-- 💾 Offline cart persistence
-- 🔌 REST API integration
 
 </div>
 
