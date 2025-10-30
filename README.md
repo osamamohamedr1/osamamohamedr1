@@ -76,10 +76,12 @@
 
 ## 💻 Technical Skills
 
-<div align="left">
+<div align="center">
 
 ### 🎯 Programming & Paradigms
 <p>
+    <img src="https://skillicons.dev/icons?i=flutter" height="40" alt="Flutter" />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=dart" height="40" alt="Dart" />
   <img width="12" />
   <img src="https://img.shields.io/badge/OOP-007396?style=for-the-badge&logo=java&logoColor=white" height="40" />
@@ -89,13 +91,18 @@
 
 ### 📱 Mobile Development
 <p>
-  <img src="https://skillicons.dev/icons?i=flutter" height="40" alt="Flutter" />
-  <img width="12" />
+
   <img src="https://img.shields.io/badge/Clean_Architecture-02569B?style=for-the-badge&logo=flutter&logoColor=white" height="40" />
   <img width="12" />
   <img src="https://img.shields.io/badge/MVVM-02569B?style=for-the-badge&logo=flutter&logoColor=white" height="40" />
   <img width="12" />
   <img src="https://img.shields.io/badge/BLoC-02569B?style=for-the-badge&logo=flutter&logoColor=white" height="40" />
+    <img width="12" />
+    <img src="https://img.shields.io/badge/Responsive_UI-02569B?style=for-the-badge&logo=flutter&logoColor=white" height="40" />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Maps_API-4285F4?style=for-the-badge&logo=googlemaps&logoColor=white" height="40" />
+ <img width="12" />
+  <img src="https://img.shields.io/badge/Local_Notifications-02569B?style=for-the-badge&logo=flutter&logoColor=white" height="40" />
 </p>
 
 ### 🔧 Testing & Quality
@@ -118,28 +125,12 @@
   <img src="https://img.shields.io/badge/Hive-E37400?style=for-the-badge&logo=hive&logoColor=white" height="40" />
 </p>
 
-### ☁️ Firebase & Cloud
-<p>
+
   <img src="https://skillicons.dev/icons?i=firebase" height="40" alt="Firebase" />
   <img width="12" />
   <img src="https://img.shields.io/badge/FCM-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" height="40" />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Local_Notifications-02569B?style=for-the-badge&logo=flutter&logoColor=white" height="40" />
-</p>
+ 
 
-### 🗺️ Maps & Location
-<p>
-  <img src="https://img.icons8.com/color/96/000000/google-maps.png" height="40" alt="Google Maps" />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Maps_API-4285F4?style=for-the-badge&logo=googlemaps&logoColor=white" height="40" />
-</p>
-
-### 🎨 UI/UX & Design
-<p>
-  <img src="https://img.shields.io/badge/Responsive_UI-02569B?style=for-the-badge&logo=flutter&logoColor=white" height="40" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=figma" height="40" alt="Figma" />
-</p>
 
 ### 🚀 DevOps & CI/CD
 <p>
