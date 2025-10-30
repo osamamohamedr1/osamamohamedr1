@@ -76,100 +76,87 @@
 
 ## 💻 Technical Skills
 
-<div align="center">
+<div align="left">
 
-### 💻 Languages & Frameworks
-
-<table>
-  <tr>
-    <td align="center" width="100">
-      <img src="https://skillicons.dev/icons?i=dart" width="55" height="55" alt="Dart" />
-      <br><b>Dart</b>
-    </td>
-    <td align="center" width="100">
-      <img src="https://skillicons.dev/icons?i=flutter" width="55" height="55" alt="Flutter" />
-      <br><b>Flutter</b>
-    </td>
-    <td align="center" width="100">
-      <img src="https://skillicons.dev/icons?i=firebase" width="55" height="55" alt="Firebase" />
-      <br><b>Firebase</b>
-    </td>
-    <td align="center" width="100">
-      <img src="https://skillicons.dev/icons?i=python" width="55" height="55" alt="Python" />
-      <br><b>Python</b>
-    </td>
-   
-  </tr>
-</table>
-
-### 🏗️ Architecture & Design Patterns
-
+### 🎯 Programming & Paradigms
 <p>
-  <img src="https://img.shields.io/badge/Clean_Architecture-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/MVVM-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/BLoC_Pattern-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/OOP-007396?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/SOLID_Principles-000000?style=for-the-badge&logo=solid&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=dart" height="40" alt="Dart" />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/OOP-007396?style=for-the-badge&logo=java&logoColor=white" height="40" />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/SOLID_Principles-000000?style=for-the-badge&logo=solid&logoColor=white" height="40" />
+</p>
+
+### 📱 Mobile Development
+<p>
+  <img src="https://skillicons.dev/icons?i=flutter" height="40" alt="Flutter" />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Clean_Architecture-02569B?style=for-the-badge&logo=flutter&logoColor=white" height="40" />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/MVVM-02569B?style=for-the-badge&logo=flutter&logoColor=white" height="40" />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/BLoC-02569B?style=for-the-badge&logo=flutter&logoColor=white" height="40" />
+</p>
+
+### 🔧 Testing & Quality
+<p>
+  <img src="https://img.shields.io/badge/Unit_Testing-02569B?style=for-the-badge&logo=flutter&logoColor=white" height="40" />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Widget_Testing-02569B?style=for-the-badge&logo=flutter&logoColor=white" height="40" />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Integration_Testing-02569B?style=for-the-badge&logo=flutter&logoColor=white" height="40" />
+</p>
+
+### 🌐 Backend & APIs
+<p>
+  <img src="https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white" height="40" />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Dio-02569B?style=for-the-badge&logo=dart&logoColor=white" height="40" />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/HTTP-005571?style=for-the-badge&logo=http&logoColor=white" height="40" />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Hive-E37400?style=for-the-badge&logo=hive&logoColor=white" height="40" />
+</p>
+
+### ☁️ Firebase & Cloud
+<p>
+  <img src="https://skillicons.dev/icons?i=firebase" height="40" alt="Firebase" />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/FCM-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" height="40" />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Local_Notifications-02569B?style=for-the-badge&logo=flutter&logoColor=white" height="40" />
+</p>
+
+### 🗺️ Maps & Location
+<p>
+  <img src="https://img.icons8.com/color/96/000000/google-maps.png" height="40" alt="Google Maps" />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Maps_API-4285F4?style=for-the-badge&logo=googlemaps&logoColor=white" height="40" />
+</p>
+
+### 🎨 UI/UX & Design
+<p>
+  <img src="https://img.shields.io/badge/Responsive_UI-02569B?style=for-the-badge&logo=flutter&logoColor=white" height="40" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=figma" height="40" alt="Figma" />
+</p>
+
+### 🚀 DevOps & CI/CD
+<p>
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" height="40" />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Fastlane-00F200?style=for-the-badge&logo=fastlane&logoColor=white" height="40" />
 </p>
 
 ### 🛠️ Development Tools
-
-<table>
-  <tr>
-    <td align="center" width="100">
-      <img src="https://skillicons.dev/icons?i=vscode" width="55" height="55" alt="VS Code" />
-      <br><b>VS Code</b>
-    </td>
-    <td align="center" width="100">
-      <img src="https://skillicons.dev/icons?i=git" width="55" height="55" alt="Git" />
-      <br><b>Git</b>
-    </td>
-    <td align="center" width="100">
-      <img src="https://skillicons.dev/icons?i=github" width="55" height="55" alt="GitHub" />
-      <br><b>GitHub</b>
-    </td>
-    <td align="center" width="100">
-      <img src="https://skillicons.dev/icons?i=figma" width="55" height="55" alt="Figma" />
-      <br><b>Figma</b>
-    </td>
-    <td align="center" width="100">
-      <img src="https://skillicons.dev/icons?i=postman" width="55" height="55" alt="Postman" />
-      <br><b>Postman</b>
-    </td>
-    <td align="center" width="100">
-      <img src="https://img.icons8.com/color/96/000000/google-maps.png" width="55" height="55" alt="Google Maps" />
-      <br><b>Maps API</b>
-    </td>
-  </tr>
-</table>
-
-### 🔌 Backend & APIs
-
 <p>
-  <img src="https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Dio-02569B?style=for-the-badge&logo=dart&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTTP-005571?style=for-the-badge&logo=http&logoColor=white" />
-  <img src="https://img.shields.io/badge/Hive-E37400?style=for-the-badge&logo=hive&logoColor=white" />
-  <img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-</p>
-
-### ⚙️ DevOps & Deployment
-
-<p>
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
-  <img src="https://img.shields.io/badge/Fastlane-00F200?style=for-the-badge&logo=fastlane&logoColor=white" />
-  <img src="https://img.shields.io/badge/CI/CD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
-  <img src="https://img.shields.io/badge/FCM-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-  <img src="https://img.shields.io/badge/Local_Notifications-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-</p>
-
-### 🧪 Testing & Quality Assurance
-
-<p>
-  <img src="https://img.shields.io/badge/Unit_Testing-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Widget_Testing-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Integration_Testing-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="VS Code" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=git" height="40" alt="Git" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=postman" height="40" alt="Postman" />
 </p>
 
 </div>
@@ -219,11 +206,7 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](https://github.com/osamamohamedr1/e-shop)
 
-<img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
-<img src="https://img.shields.io/badge/MVVM-02569B?style=flat-square" />
-<img src="https://img.shields.io/badge/BLoC-02569B?style=flat-square" />
-<img src="https://img.shields.io/badge/Hive-E37400?style=flat-square" />
+
 
 **Modern e-commerce application with product management and shopping cart**
 
