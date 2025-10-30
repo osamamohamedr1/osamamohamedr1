@@ -216,7 +216,6 @@
 
 I'm actively seeking **Flutter Developer** positions where I can contribute to innovative projects, collaborate with talented teams, and continue expanding my expertise in mobile development.
 
-<br/>
 
 ### 📬 Get In Touch
 
@@ -238,7 +237,7 @@ I'm actively seeking **Flutter Developer** positions where I can contribute to i
 
 ---
 
-
+<div align="center">
   
   ### 💬 _"Building the future, one app at a time!"_
   
