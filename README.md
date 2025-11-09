@@ -9,8 +9,8 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=osamamohamedr1&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-  <img src="https://img.shields.io/github/followers/osamamohamedr1?label=Followers&style=flat&color=2E9EF7" alt="followers" />
-  <img src="https://img.shields.io/badge/Available_For-Flutter%20Developer-success?style=flat" alt="availability" />
+  
+  <img src="https://img.shields.io/badge/Role-Flutter%20Developer-success?style=flat" alt="availability" />
 </p>
 
 <div align="center">
