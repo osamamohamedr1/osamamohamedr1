@@ -1,5 +1,5 @@
 <a href="https://osamamohamedr1.github.io">
-  <img src="assets/header.svg" alt="Osama Mohamed Rizk — Flutter Developer @ InTheKloud" width="100%"/>
+  <img src="assets/banner.svg" alt="Osama Mohamed Rizk — Flutter Developer @ InTheKloud" width="100%"/>
 </a>
 
 <p align="center">
