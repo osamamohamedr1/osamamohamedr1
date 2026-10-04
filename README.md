@@ -89,7 +89,8 @@ class OsamaMohamedRizk extends FlutterDeveloper {
   <tr>
     <td width="170"><b>Mobile</b></td>
     <td>
-      <img src="https://skillicons.dev/icons?i=flutter,dart,androidstudio,apple&theme=dark" height="40" alt="Flutter, Dart, Android, iOS"/><br/>
+      <img src="https://skillicons.dev/icons?i=flutter,dart,androidstudio&theme=dark" height="40" alt="Flutter, Dart, Android"/>
+      <img src="assets/apple-silver.svg" height="40" alt="iOS"/><br/>
       <img src="https://img.shields.io/badge/BLoC_/_Cubit-191C1D?style=flat-square&logo=flutter&logoColor=FF6B5A" alt="BLoC"/>
       <img src="https://img.shields.io/badge/Riverpod-191C1D?style=flat-square&logo=flutter&logoColor=FF6B5A" alt="Riverpod"/>
       <img src="https://img.shields.io/badge/Clean_Architecture-191C1D?style=flat-square&logo=flutter&logoColor=FF6B5A" alt="Clean Architecture"/>
@@ -115,7 +116,7 @@ class OsamaMohamedRizk extends FlutterDeveloper {
     <td><b>Auth &amp; Payments</b></td>
     <td>
       <img src="https://img.shields.io/badge/Firebase_Auth-191C1D?style=flat-square&logo=firebase&logoColor=FF6B5A" alt="Firebase Auth"/>
-      <img src="https://img.shields.io/badge/Sign_in_with_Apple-191C1D?style=flat-square&logo=apple&logoColor=FF6B5A" alt="Sign in with Apple"/>
+      <img src="https://img.shields.io/badge/Sign_in_with_Apple-191C1D?style=flat-square&logo=apple&logoColor=D1D1D6" alt="Sign in with Apple"/>
       <img src="https://img.shields.io/badge/Social_Login-191C1D?style=flat-square&logo=google&logoColor=FF6B5A" alt="Social Login"/>
       <img src="https://img.shields.io/badge/Paymob-191C1D?style=flat-square&logo=visa&logoColor=FF6B5A" alt="Paymob"/>
       <img src="https://img.shields.io/badge/SkipCash-191C1D?style=flat-square&logo=mastercard&logoColor=FF6B5A" alt="SkipCash"/>
@@ -152,7 +153,7 @@ class OsamaMohamedRizk extends FlutterDeveloper {
       <img src="https://img.shields.io/badge/Azure_DevOps-191C1D?style=flat-square&logo=azuredevops&logoColor=A7F3D0" alt="Azure DevOps"/>
       <img src="https://img.shields.io/badge/Fastlane-191C1D?style=flat-square&logo=fastlane&logoColor=A7F3D0" alt="Fastlane"/>
       <img src="https://img.shields.io/badge/App_Store_Connect-191C1D?style=flat-square&logo=appstore&logoColor=A7F3D0" alt="App Store Connect"/>
-      <img src="https://img.shields.io/badge/TestFlight-191C1D?style=flat-square&logo=apple&logoColor=A7F3D0" alt="TestFlight"/>
+      <img src="https://img.shields.io/badge/TestFlight-191C1D?style=flat-square&logo=apple&logoColor=D1D1D6" alt="TestFlight"/>
       <img src="https://img.shields.io/badge/Google_Play_Console-191C1D?style=flat-square&logo=googleplay&logoColor=A7F3D0" alt="Google Play Console"/>
     </td>
   </tr>
