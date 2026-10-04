@@ -1,361 +1,214 @@
-<div align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Osama%20Mohamed%20Rizk&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" width="100%"/>
-</div>
-
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Osama+Mohamed+Rizk;Flutter+Developer+%40+InTheKloud;Fintech+%26+E-Commerce+Apps;Shipped+to+App+Store+%26+Google+Play" alt="Typing SVG" />
-</h1>
+<a href="https://osamamohamedr1.github.io">
+  <img src="assets/header.svg" alt="Osama Mohamed Rizk — Flutter Developer @ InTheKloud" width="100%"/>
+</a>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=osamamohamedr1&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-  
-  <img src="https://img.shields.io/badge/Role-Flutter%20Developer%20%40%20InTheKloud-success?style=flat" alt="role" />
+  <a href="https://osamamohamedr1.github.io"><img src="https://img.shields.io/badge/Portfolio-FF6B5A?style=for-the-badge&logo=googlechrome&logoColor=101112" alt="Portfolio"/></a>
+  <a href="https://www.linkedin.com/in/osamamohamedr1/"><img src="https://img.shields.io/badge/LinkedIn-191C1D?style=for-the-badge&logo=linkedin&logoColor=A7F3D0" alt="LinkedIn"/></a>
+  <a href="mailto:osamamohamedr1@gmail.com"><img src="https://img.shields.io/badge/Email-191C1D?style=for-the-badge&logo=gmail&logoColor=A7F3D0" alt="Email"/></a>
+  <a href="https://wa.me/201063198136"><img src="https://img.shields.io/badge/WhatsApp-191C1D?style=for-the-badge&logo=whatsapp&logoColor=A7F3D0" alt="WhatsApp"/></a>
+  <a href="https://www.facebook.com/osamamohamedr1"><img src="https://img.shields.io/badge/Facebook-191C1D?style=for-the-badge&logo=facebook&logoColor=A7F3D0" alt="Facebook"/></a>
+  <img src="https://komarev.com/ghpvc/?username=osamamohamedr1&label=Views&color=FF6B5A&style=for-the-badge" alt="Profile views"/>
 </p>
-
-
-<div align="center">
-  <a href="https://osamamohamedr1.github.io">
-    <img src="https://img.shields.io/badge/Portfolio-FF6B5A?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
-  </a>
-  <a href="https://www.linkedin.com/in/osamamohamedr1/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://github.com/osamamohamedr1">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="mailto:osamamohamedr1@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-  <a href="https://www.facebook.com/osamamohamedr1">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
-  </a>
-  <a href="https://wa.me/201063198136">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
-  </a>
-</div>
 
 <br/>
 
+## 👨‍💻 About me
 
+I'm a **Flutter Developer at InTheKloud** building production fintech and e-commerce apps for iOS and Android: live gold pricing over SignalR, Paymob and SkipCash payments, real-time merchant operations, and Arabic/English RTL interfaces. I take features from the first commit all the way to **App Store and Google Play** releases, and my **.NET backend** experience means I can work closely with the API side.
 
-## 🚀 About Me
+```dart
+class OsamaMohamedRizk extends FlutterDeveloper {
+  final role       = 'Flutter Developer @ InTheKloud';
+  final location   = 'Egypt 🇪🇬';
+  final shipped    = ['Value Gold', 'Vtreena Merchant'];
+  final focus      = ['Clean Architecture', 'BLoC / Cubit', 'Real-time', 'Payments'];
+  final backend    = ['C#', '.NET', 'ASP.NET Core', 'EF Core', 'SQL Server'];
+  final education  = 'B.Sc. Electronics & Communication Eng. · Mansoura University · Excellent';
+  final languages  = {'Arabic': 'Native', 'English': 'Professional'};
 
-<img align="right" alt="Coding" width="400" src="https://mktcix.com/wp-content/uploads/2025/02/mktcix-gif4.gif">
+  @override
+  String get motto => 'Building the future, one app at a time.';
+}
+```
 
-<!-- <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Flutter+Developer+%F0%9F%9A%80;Mobile+App+Enthusiast+%F0%9F%93%B1;Clean+Architecture+Advocate+%F0%9F%8F%97%EF%B8%8F;AI+%26+Innovation+Explorer+%F0%9F%92%A1" alt="Typing SVG" />
-</div> -->
+## 🏆 Featured work
 
-### 👨‍💻 Professional Profile
+> Commercial, closed-source client apps. Full case studies are on **[my portfolio →](https://osamamohamedr1.github.io/#work)**
 
-🎓 **Education**  
-- Bachelor's Degree in **Electronics & Communication Engineering**  
-- **Mansoura University** (2020-2025)  
-- Grade: **Excellent**
-
-💼 **Currently**  
-- **Flutter Developer @ InTheKloud** (Nov 2025 – Present)  
-- Building production **fintech & e-commerce** apps for iOS and Android: live pricing, payments, real-time orders  
-- Taking features from development to **App Store & Google Play** releases  
-- Backend experience with **C#, .NET, ASP.NET Core, EF Core & SQL Server**
-
-🌐 **Portfolio:** [osamamohamedr1.github.io](https://osamamohamedr1.github.io)
-
-
-🌟 **What Drives Me**  
-> I'm passionate about transforming innovative ideas into scalable, user-centric mobile applications. With a strong foundation in software architecture and a commitment to best practices, I strive to deliver high-quality solutions that make a real impact.
-
-
-<br clear="right"/>
-
----
-
-
-## 💻 Technical Skills
-
-<div align="center">
-
-### 🎯 Programming & Paradigms
-<p>
-    <img src="https://skillicons.dev/icons?i=flutter" height="40" alt="Flutter" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=dart" height="40" alt="Dart" />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/OOP-007396?style=for-the-badge&logo=java&logoColor=white" height="40" />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/SOLID_Principles-000000?style=for-the-badge&logo=solid&logoColor=white" height="40" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=cs" height="40" alt="C#" />
-</p>
-
-### 📱 Mobile Development
-<p>
-
-  <img src="https://img.shields.io/badge/Clean_Architecture-02569B?style=for-the-badge&logo=flutter&logoColor=white" height="40" />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/MVVM-02569B?style=for-the-badge&logo=flutter&logoColor=white" height="40" />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/BLoC_/_Cubit-02569B?style=for-the-badge&logo=flutter&logoColor=white" height="40" />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Riverpod-02569B?style=for-the-badge&logo=flutter&logoColor=white" height="40" />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Feature--First-02569B?style=for-the-badge&logo=flutter&logoColor=white" height="40" />
-    <img width="12" />
-    <img src="https://img.shields.io/badge/Responsive_UI-02569B?style=for-the-badge&logo=flutter&logoColor=white" height="40" />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Maps_API-02569B?style=for-the-badge&logo=googlemaps&logoColor=white" height="40" />
- <img width="12" />
-  <img src="https://img.shields.io/badge/Local_Notifications-02569B?style=for-the-badge&logo=flutter&logoColor=white" height="40" />
- <img width="12" />
-  <img src="https://img.shields.io/badge/WebView-02569B?style=for-the-badge&logo=flutter&logoColor=white" height="40" />
- <img width="12" />
-  <img src="https://img.shields.io/badge/Deep_Links-02569B?style=for-the-badge&logo=flutter&logoColor=white" height="40" />
- <img width="12" />
-  <img src="https://img.shields.io/badge/Platform_Channels-02569B?style=for-the-badge&logo=flutter&logoColor=white" height="40" />
- <img width="12" />
-
-  <img src="https://img.shields.io/badge/Unit_Testing-02569B?style=for-the-badge&logo=flutter&logoColor=white" height="40" />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Widget_Testing-02569B?style=for-the-badge&logo=flutter&logoColor=white" height="40" />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Integration_Testing-02569B?style=for-the-badge&logo=flutter&logoColor=white" height="40" />
-</p>
-
-### ⚡ Networking & Real-Time
-<p>
-  <img src="https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white" height="40" />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Dio-02569B?style=for-the-badge&logo=dart&logoColor=white" height="40" />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/HTTP-005571?style=for-the-badge&logo=http&logoColor=white" height="40" />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/SignalR-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" height="40" />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/JWT_&_Refresh_Tokens-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" height="40" />
-</p>
-
-### 🔐 Auth & Payments
-<p>
-  <img src="https://img.shields.io/badge/Firebase_Auth-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" height="40" />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Sign_in_with_Apple-000000?style=for-the-badge&logo=apple&logoColor=white" height="40" />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Social_Login-4285F4?style=for-the-badge&logo=google&logoColor=white" height="40" />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Paymob-0B4DF5?style=for-the-badge&logoColor=white" height="40" />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/SkipCash-6C2BD9?style=for-the-badge&logoColor=white" height="40" />
-</p>
-
-### 🗄️ Firebase & Storage
-<p>
-  <img src="https://skillicons.dev/icons?i=firebase" height="40" alt="Firebase" />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/FCM-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" height="40" />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Crashlytics-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" height="40" />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Hive-E37400?style=for-the-badge&logo=hive&logoColor=white" height="40" />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/sqflite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" height="40" />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Secure_Storage-02569B?style=for-the-badge&logo=flutter&logoColor=white" height="40" />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/SharedPreferences-02569B?style=for-the-badge&logo=flutter&logoColor=white" height="40" />
-</p>
-
-### 🌐 Backend
-<p>
-  <img src="https://skillicons.dev/icons?i=dotnet" height="40" alt=".NET" />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" height="40" />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/EF_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" height="40" />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" height="40" />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/LINQ-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" height="40" />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/ASP.NET_Identity-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" height="40" />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" height="40" />
-</p>
-
-
-### 🚀 DevOps, CI/CD & Release
-<p>
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" height="40" />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white" height="40" />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Fastlane-00F200?style=for-the-badge&logo=fastlane&logoColor=white" height="40" />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/App_Store_Connect-0D96F6?style=for-the-badge&logo=appstore&logoColor=white" height="40" />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/TestFlight-0D96F6?style=for-the-badge&logo=apple&logoColor=white" height="40" />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Google_Play_Console-414141?style=for-the-badge&logo=googleplay&logoColor=white" height="40" />
-</p>
-
-### 🛠️ Development Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="VS Code" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=git" height="40" alt="Git" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=postman" height="40" alt="Postman" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=linux" height="40" alt="Linux" />
-</p>
-
-</div>
-
----
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://osamamohamedr1.github.io/#work"><img src="https://osamamohamedr1.github.io/assets/valuegold-cover.jpg" alt="Value Gold app" width="100%"/></a>
+      <h3>🥇 Value Gold</h3>
+      <sub><b>Gold e-commerce &amp; investment platform · Qatar</b></sub>
+      <ul>
+        <li>Live gold prices streamed with <b>SignalR</b></li>
+        <li>Buy / sell by purity &amp; weight, digital → physical, gifting, wallet</li>
+        <li><b>SkipCash</b> payments · <b>Apple &amp; Social Sign-In</b></li>
+      </ul>
+      <code>Flutter</code> <code>BLoC</code> <code>Clean Architecture</code> <code>SignalR</code> <code>SkipCash</code>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://osamamohamedr1.github.io/#work"><img src="https://osamamohamedr1.github.io/assets/vtreena-cover.jpg" alt="Vtreena Merchant app" width="100%"/></a>
+      <h3>🛍️ Vtreena Merchant</h3>
+      <sub><b>Merchant management &amp; e-commerce platform</b></sub>
+      <ul>
+        <li>Catalog, orders, shipments, invoices &amp; collections</li>
+        <li>Subscriptions &amp; one-time billing via <b>Paymob</b> + WebView checkout</li>
+        <li>Shipped to the <b>App Store &amp; Google Play</b></li>
+      </ul>
+      <code>Flutter</code> <code>BLoC</code> <code>Clean Architecture</code> <code>Paymob</code> <code>Hive</code>
+    </td>
+  </tr>
+</table>
 
 ## 💼 Experience
 
-### Flutter Developer @ InTheKloud
-**Nov 2025 – Present**
-
-Building production fintech and e-commerce mobile apps for iOS and Android, from development to App Store and Google Play releases.
-
----
-
-## 🏆 Commercial Projects
-
-> Both are closed-source client apps. Full case studies are on my **[portfolio](https://osamamohamedr1.github.io/#work)**.
-
 <table>
-<tr>
-<td width="50%" valign="top">
-
-<a href="https://osamamohamedr1.github.io/#work"><img src="https://osamamohamedr1.github.io/assets/valuegold-cover.jpg" alt="Value Gold" width="100%"/></a>
-
-### 🥇 Value Gold
-**Gold e-commerce & investment platform · Qatar**
-
-- Live gold pricing streamed in real time with **SignalR**
-- Purity/quantity-based **buy & sell**, digital → physical gold, gifting & wallet
-- **SkipCash** payments, **Social Login & Sign in with Apple**
-- Arabic / English with full RTL support
-
-`Flutter` `BLoC/Cubit` `Clean Architecture` `SignalR` `Dio` `SkipCash` `Firebase`
-
-</td>
-<td width="50%" valign="top">
-
-<a href="https://osamamohamedr1.github.io/#work"><img src="https://osamamohamedr1.github.io/assets/vtreena-cover.jpg" alt="Vtreena Merchant" width="100%"/></a>
-
-### 🛍️ Vtreena Merchant
-**Merchant management & e-commerce platform**
-
-- Catalog, orders, shipments, invoices & collections with search, filters & pagination
-- Subscription and one-time billing via **Paymob** with WebView checkout
-- Clean Architecture, DI, caching & token refresh
-- Shipped to the **App Store & Google Play**
-
-`Flutter` `BLoC/Cubit` `Clean Architecture` `Dio` `Paymob` `WebView` `Hive`
-
-</td>
-</tr>
+  <tr>
+    <td width="72"><img src="https://img.shields.io/badge/NOW-FF6B5A?style=for-the-badge" alt="Now"/></td>
+    <td>
+      <b>Flutter Developer</b> · InTheKloud<br/>
+      <sub>Nov 2025 – Present</sub><br/>
+      Value Gold &amp; Vtreena Merchant: Clean Architecture, BLoC/Cubit, DI, caching, token refresh, payment integrations, iOS/Android pre-production &amp; store releases.
+    </td>
+  </tr>
+  <tr>
+    <td width="72"><img src="https://img.shields.io/badge/2025-191C1D?style=for-the-badge" alt="2025"/></td>
+    <td>
+      <b>B.Sc. Electronics &amp; Communication Engineering</b> · Mansoura University<br/>
+      <sub>2020 – 2025 · Grade: Excellent</sub>
+    </td>
+  </tr>
 </table>
 
----
+## 🧰 Tech stack
 
-## 🚀 Personal Projects
+<table>
+  <tr>
+    <td width="170"><b>Mobile</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=flutter,dart,androidstudio,apple&theme=dark" height="40" alt="Flutter, Dart, Android, iOS"/><br/>
+      <img src="https://img.shields.io/badge/BLoC_/_Cubit-191C1D?style=flat-square&logo=flutter&logoColor=FF6B5A" alt="BLoC"/>
+      <img src="https://img.shields.io/badge/Riverpod-191C1D?style=flat-square&logo=flutter&logoColor=FF6B5A" alt="Riverpod"/>
+      <img src="https://img.shields.io/badge/Clean_Architecture-191C1D?style=flat-square&logo=flutter&logoColor=FF6B5A" alt="Clean Architecture"/>
+      <img src="https://img.shields.io/badge/MVVM-191C1D?style=flat-square&logo=flutter&logoColor=FF6B5A" alt="MVVM"/>
+      <img src="https://img.shields.io/badge/Feature--First-191C1D?style=flat-square&logo=flutter&logoColor=FF6B5A" alt="Feature-First"/>
+      <img src="https://img.shields.io/badge/Responsive_UI-191C1D?style=flat-square&logo=flutter&logoColor=FF6B5A" alt="Responsive UI"/>
+      <img src="https://img.shields.io/badge/Testing-191C1D?style=flat-square&logo=flutter&logoColor=FF6B5A" alt="Testing"/>
+    </td>
+  </tr>
+  <tr>
+    <td><b>Networking &amp; Real-time</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/REST_APIs-191C1D?style=flat-square&logo=fastapi&logoColor=A7F3D0" alt="REST"/>
+      <img src="https://img.shields.io/badge/Dio-191C1D?style=flat-square&logo=dart&logoColor=A7F3D0" alt="Dio"/>
+      <img src="https://img.shields.io/badge/SignalR-191C1D?style=flat-square&logo=dotnet&logoColor=A7F3D0" alt="SignalR"/>
+      <img src="https://img.shields.io/badge/JWT_&_Refresh_Tokens-191C1D?style=flat-square&logo=jsonwebtokens&logoColor=A7F3D0" alt="JWT"/>
+      <img src="https://img.shields.io/badge/WebView-191C1D?style=flat-square&logo=googlechrome&logoColor=A7F3D0" alt="WebView"/>
+      <img src="https://img.shields.io/badge/Deep_Links-191C1D?style=flat-square&logo=flutter&logoColor=A7F3D0" alt="Deep Links"/>
+      <img src="https://img.shields.io/badge/Platform_Channels-191C1D?style=flat-square&logo=flutter&logoColor=A7F3D0" alt="Platform Channels"/>
+    </td>
+  </tr>
+  <tr>
+    <td><b>Auth &amp; Payments</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Firebase_Auth-191C1D?style=flat-square&logo=firebase&logoColor=FF6B5A" alt="Firebase Auth"/>
+      <img src="https://img.shields.io/badge/Sign_in_with_Apple-191C1D?style=flat-square&logo=apple&logoColor=FF6B5A" alt="Sign in with Apple"/>
+      <img src="https://img.shields.io/badge/Social_Login-191C1D?style=flat-square&logo=google&logoColor=FF6B5A" alt="Social Login"/>
+      <img src="https://img.shields.io/badge/Paymob-191C1D?style=flat-square&logo=visa&logoColor=FF6B5A" alt="Paymob"/>
+      <img src="https://img.shields.io/badge/SkipCash-191C1D?style=flat-square&logo=mastercard&logoColor=FF6B5A" alt="SkipCash"/>
+    </td>
+  </tr>
+  <tr>
+    <td><b>Firebase &amp; Storage</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=firebase,sqlite&theme=dark" height="32" alt="Firebase, SQLite"/><br/>
+      <img src="https://img.shields.io/badge/FCM-191C1D?style=flat-square&logo=firebase&logoColor=A7F3D0" alt="FCM"/>
+      <img src="https://img.shields.io/badge/Crashlytics-191C1D?style=flat-square&logo=firebase&logoColor=A7F3D0" alt="Crashlytics"/>
+      <img src="https://img.shields.io/badge/Hive-191C1D?style=flat-square&logo=hive&logoColor=A7F3D0" alt="Hive"/>
+      <img src="https://img.shields.io/badge/sqflite-191C1D?style=flat-square&logo=sqlite&logoColor=A7F3D0" alt="sqflite"/>
+      <img src="https://img.shields.io/badge/Secure_Storage-191C1D?style=flat-square&logo=flutter&logoColor=A7F3D0" alt="Secure Storage"/>
+      <img src="https://img.shields.io/badge/SharedPreferences-191C1D?style=flat-square&logo=flutter&logoColor=A7F3D0" alt="SharedPreferences"/>
+    </td>
+  </tr>
+  <tr>
+    <td><b>Backend</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=cs,dotnet&theme=dark" height="32" alt="C#, .NET"/><br/>
+      <img src="https://img.shields.io/badge/ASP.NET_Core-191C1D?style=flat-square&logo=dotnet&logoColor=FF6B5A" alt="ASP.NET Core"/>
+      <img src="https://img.shields.io/badge/EF_Core-191C1D?style=flat-square&logo=dotnet&logoColor=FF6B5A" alt="EF Core"/>
+      <img src="https://img.shields.io/badge/SQL_Server-191C1D?style=flat-square&logo=microsoftsqlserver&logoColor=FF6B5A" alt="SQL Server"/>
+      <img src="https://img.shields.io/badge/LINQ-191C1D?style=flat-square&logo=dotnet&logoColor=FF6B5A" alt="LINQ"/>
+      <img src="https://img.shields.io/badge/Identity_&_JWT-191C1D?style=flat-square&logo=jsonwebtokens&logoColor=FF6B5A" alt="Identity"/>
+      <img src="https://img.shields.io/badge/Swagger-191C1D?style=flat-square&logo=swagger&logoColor=FF6B5A" alt="Swagger"/>
+    </td>
+  </tr>
+  <tr>
+    <td><b>Release &amp; Tooling</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=git,github,githubactions,azure,linux,vscode,postman&theme=dark" height="32" alt="Tools"/><br/>
+      <img src="https://img.shields.io/badge/Azure_DevOps-191C1D?style=flat-square&logo=azuredevops&logoColor=A7F3D0" alt="Azure DevOps"/>
+      <img src="https://img.shields.io/badge/Fastlane-191C1D?style=flat-square&logo=fastlane&logoColor=A7F3D0" alt="Fastlane"/>
+      <img src="https://img.shields.io/badge/App_Store_Connect-191C1D?style=flat-square&logo=appstore&logoColor=A7F3D0" alt="App Store Connect"/>
+      <img src="https://img.shields.io/badge/TestFlight-191C1D?style=flat-square&logo=apple&logoColor=A7F3D0" alt="TestFlight"/>
+      <img src="https://img.shields.io/badge/Google_Play_Console-191C1D?style=flat-square&logo=googleplay&logoColor=A7F3D0" alt="Google Play Console"/>
+    </td>
+  </tr>
+</table>
 
-<div align="left">
+## 🚀 Personal projects
 
-### 🏋️ Nutrix - AI-Powered Fitness & Nutrition Platform
-**Graduation Project | Jul 2025**
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🏋️ Nutrix</h4>
+      <sub>Graduation project · Jul 2025</sub><br/>
+      AI-generated personalized fitness &amp; nutrition plans.<br/><br/>
+      <a href="https://github.com/osamamohamedr1/Nutrix-App_graduation-project"><img src="https://img.shields.io/badge/Code-191C1D?style=flat-square&logo=github&logoColor=F5F5F0" alt="Code"/></a>
+      <a href="https://drive.google.com/drive/folders/1AAIgosrnrLauMf7-bv-eNwwgd_MYmfg1"><img src="https://img.shields.io/badge/Demo-FF6B5A?style=flat-square&logo=googledrive&logoColor=101112" alt="Demo"/></a>
+    </td>
+    <td width="50%" valign="top">
+      <h4>💰 FinWise</h4>
+      <sub>Sep 2025</sub><br/>
+      Personal finance tracking with analytics.<br/><br/>
+      <a href="https://github.com/osamamohamedr1/fin-wise"><img src="https://img.shields.io/badge/Code-191C1D?style=flat-square&logo=github&logoColor=F5F5F0" alt="Code"/></a>
+      <a href="https://drive.google.com/drive/folders/1cPIF52YYIXKkeVQ9n30m5G3I3qWFKA3D"><img src="https://img.shields.io/badge/Demo-FF6B5A?style=flat-square&logo=googledrive&logoColor=101112" alt="Demo"/></a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🕌 Wdaker</h4>
+      <sub>Jul 2025</sub><br/>
+      Islamic companion with daily guidance and a mosque finder.<br/><br/>
+      <a href="https://github.com/osamamohamedr1/islamic_app"><img src="https://img.shields.io/badge/Code-191C1D?style=flat-square&logo=github&logoColor=F5F5F0" alt="Code"/></a>
+      <a href="https://drive.google.com/drive/folders/1_dbDIkZPjajyHJ9HK0aoaHbBN11SGFp0"><img src="https://img.shields.io/badge/Demo-FF6B5A?style=flat-square&logo=googledrive&logoColor=101112" alt="Demo"/></a>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🛒 E-Shop</h4>
+      <sub>Oct 2024</sub><br/>
+      E-commerce app with product management and a shopping cart.<br/><br/>
+      <a href="https://github.com/osamamohamedr1/e-shop"><img src="https://img.shields.io/badge/Code-191C1D?style=flat-square&logo=github&logoColor=F5F5F0" alt="Code"/></a>
+    </td>
+  </tr>
+</table>
 
-[![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](https://github.com/osamamohamedr1/Nutrix-App_graduation-project)
-[![Demo](https://img.shields.io/badge/Live-Demo-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/drive/folders/1AAIgosrnrLauMf7-bv-eNwwgd_MYmfg1)
+## 🐍 Contributions
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/osamamohamedr1/osamamohamedr1/output/snake-dark.svg"/>
+  <img src="https://raw.githubusercontent.com/osamamohamedr1/osamamohamedr1/output/snake-light.svg" alt="Contribution snake animation" width="100%"/>
+</picture>
 
-**A comprehensive mobile application providing AI-generated personalized fitness and nutrition solutions**
+## 📬 Let's build something
 
----
+I'm always happy to talk about **Flutter**, fintech and e-commerce apps, freelance projects, or new opportunities.
 
-### 💰 FinWise - Personal Finance Management
-**Sep 2025**
+<p>
+  <a href="https://osamamohamedr1.github.io"><img src="https://img.shields.io/badge/View_Portfolio-FF6B5A?style=for-the-badge&logo=googlechrome&logoColor=101112" alt="View portfolio"/></a>
+  <a href="mailto:osamamohamedr1@gmail.com"><img src="https://img.shields.io/badge/osamamohamedr1%40gmail.com-191C1D?style=for-the-badge&logo=gmail&logoColor=A7F3D0" alt="Email"/></a>
+  <a href="https://www.linkedin.com/in/osamamohamedr1/"><img src="https://img.shields.io/badge/Connect-191C1D?style=for-the-badge&logo=linkedin&logoColor=A7F3D0" alt="LinkedIn"/></a>
+</p>
 
-[![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](https://github.com/osamamohamedr1/fin-wise)
-[![Demo](https://img.shields.io/badge/Live-Demo-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/drive/folders/1cPIF52YYIXKkeVQ9n30m5G3I3qWFKA3D)
-
-
-
-**Smart personal finance management with comprehensive tracking and analytics**
-
----
-
-### 🕌 Wdaker - Islamic Companion App
-**Jul 2025**
-
-[![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](https://github.com/osamamohamedr1/islamic_app)
-[![Demo](https://img.shields.io/badge/Live-Demo-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/drive/folders/1_dbDIkZPjajyHJ9HK0aoaHbBN11SGFp0)
-
-
-**Complete Islamic companion with spiritual guidance and mosque finder**
-
----
-
-### 🛒 E-Commerce Store Application
-**Oct 2024**
-
-[![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](https://github.com/osamamohamedr1/e-shop)
-
-
-
-**Modern e-commerce application with product management and shopping cart**
-
-</div>
-
-
-
-
-
-
-## 💼 Let's Connect
-
-<div align="center">
-
-### 🌟 Let's Build Something
-
-I'm always happy to talk about **Flutter**, fintech and e-commerce apps, freelance projects, or new opportunities. See my work at **[osamamohamedr1.github.io](https://osamamohamedr1.github.io)**.
-
-
-### 📬 Get In Touch
-
-<a href="https://osamamohamedr1.github.io">
-  <img src="https://img.shields.io/badge/View_Portfolio-FF6B5A?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
-</a>
-<a href="mailto:osamamohamedr1@gmail.com">
-  <img src="https://img.shields.io/badge/Send_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
-<a href="https://www.linkedin.com/in/osamamohamedr1/">
-  <img src="https://img.shields.io/badge/Connect_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="https://wa.me/201063198136">
-  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
-</a>
-<a href="https://www.facebook.com/osamamohamedr1">
-  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
-</a>
-
-
-</div>
-
----
-
-<div align="center">
-  
-  ### 💬 _"Building the future, one app at a time!"_
-  
-  **Thank you for visiting my profile! Let's build something amazing together! 🚀**
-  
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
-</div>
+<img src="assets/footer.svg" alt="Thanks for stopping by" width="100%"/>

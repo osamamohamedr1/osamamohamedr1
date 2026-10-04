@@ -1,0 +1,140 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="420" viewBox="0 0 1280 420" role="img" aria-label="Osama Mohamed Rizk — Flutter Developer">
+  <defs>
+    <radialGradient id="gCoral" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#FF6B5A" stop-opacity=".55"/>
+      <stop offset="100%" stop-color="#FF6B5A" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="gMint" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#A7F3D0" stop-opacity=".28"/>
+      <stop offset="100%" stop-color="#A7F3D0" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="gName" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#FF6B5A"/>
+      <stop offset="55%" stop-color="#FF9A7A"/>
+      <stop offset="100%" stop-color="#FFF4E6"/>
+    </linearGradient>
+    <linearGradient id="gCard" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#FF6B5A"/>
+      <stop offset="100%" stop-color="#C9473A"/>
+    </linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#2A2D2D" stroke-width="1"/>
+    </pattern>
+    <radialGradient id="fade" cx="35%" cy="45%" r="70%">
+      <stop offset="0%" stop-color="#fff" stop-opacity=".55"/>
+      <stop offset="100%" stop-color="#fff" stop-opacity="0"/>
+    </radialGradient>
+    <mask id="gridMask"><rect width="1280" height="420" fill="url(#fade)"/></mask>
+    <clipPath id="frame"><rect x="1" y="1" width="1278" height="418" rx="28"/></clipPath>
+    <clipPath id="screen"><rect x="958" y="66" width="214" height="300" rx="26"/></clipPath>
+    <style>
+      @keyframes drift { 0%,100% { transform: translate(0,0) } 50% { transform: translate(-40px,25px) } }
+      @keyframes drift2 { 0%,100% { transform: translate(0,0) } 50% { transform: translate(35px,-20px) } }
+      @keyframes float { 0%,100% { transform: translateY(0) } 50% { transform: translateY(-10px) } }
+      @keyframes rise { from { opacity: 0; transform: translateY(14px) } to { opacity: 1; transform: translateY(0) } }
+      @keyframes pulse { 0% { r: 5; opacity: .9 } 100% { r: 14; opacity: 0 } }
+      @keyframes roles { 0% { opacity: 0; transform: translateY(10px) } 4%,29% { opacity: 1; transform: translateY(0) } 33%,100% { opacity: 0; transform: translateY(-10px) } }
+      @keyframes blink { 50% { opacity: 0 } }
+      @keyframes tick { 0%,100% { opacity: 1 } 50% { opacity: .45 } }
+      .b1 { animation: drift 14s ease-in-out infinite }
+      .b2 { animation: drift2 18s ease-in-out infinite }
+      .phone { animation: float 6s ease-in-out infinite }
+      .in { opacity: 0; animation: rise .8s cubic-bezier(.22,1,.36,1) forwards }
+      .chip { opacity: 0; animation: rise .6s cubic-bezier(.22,1,.36,1) forwards }
+      .ring { animation: pulse 2s ease-out infinite }
+      .role { opacity: 0; animation: roles 9s ease-in-out infinite }
+      .r1 { animation-delay: 3s } .r2 { animation-delay: 6s }
+      .caret { animation: blink 1s steps(1) infinite }
+      .live { animation: tick 1.6s ease-in-out infinite }
+      @media (prefers-reduced-motion: reduce) {
+        .b1,.b2,.phone,.ring,.caret,.live { animation: none }
+        .in,.chip { animation: none; opacity: 1 }
+        .role { animation: none } .r0 { opacity: 1 }
+      }
+    </style>
+  </defs>
+
+  <g clip-path="url(#frame)">
+    <rect width="1280" height="420" fill="#101112"/>
+    <rect width="1280" height="420" fill="url(#grid)" mask="url(#gridMask)"/>
+    <circle class="b1" cx="1120" cy="40" r="300" fill="url(#gCoral)"/>
+    <circle class="b2" cx="80" cy="430" r="260" fill="url(#gMint)"/>
+  </g>
+  <rect x="1" y="1" width="1278" height="418" rx="28" fill="none" stroke="#2A2D2D" stroke-width="2"/>
+
+  <!-- status pill -->
+  <g class="in" style="animation-delay:.1s">
+    <rect x="64" y="52" width="292" height="36" rx="18" fill="#191C1D" stroke="#2A2D2D"/>
+    <circle class="ring" cx="86" cy="70" r="5" fill="none" stroke="#A7F3D0" stroke-width="2"/>
+    <circle cx="86" cy="70" r="5" fill="#A7F3D0"/>
+    <text x="102" y="75" font-family="SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="14" fill="#F5F5F0">Available for Flutter projects</text>
+  </g>
+
+  <!-- name -->
+  <g class="in" style="animation-delay:.25s">
+    <text x="62" y="150" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="30" font-weight="600" fill="#F5F5F0" letter-spacing="-.5">Hi, I'm</text>
+  </g>
+  <g class="in" style="animation-delay:.4s">
+    <text x="60" y="214" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="64" font-weight="800" fill="url(#gName)" letter-spacing="-2">Osama Mohamed Rizk</text>
+  </g>
+
+  <!-- rotating role -->
+  <g class="in" style="animation-delay:.6s">
+    <text x="64" y="250" font-family="SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="24" fill="#FF6B5A">&gt;</text>
+  </g>
+  <text class="role r0" x="96" y="250" font-family="SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="24" fill="#A7F3D0">Flutter Developer @ InTheKloud</text>
+    <text class="role r1" x="96" y="250" font-family="SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="24" fill="#A7F3D0">Fintech &amp; E-Commerce Apps</text>
+    <text class="role r2" x="96" y="250" font-family="SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="24" fill="#A7F3D0">Shipped to App Store &amp; Google Play</text>
+
+  <!-- summary -->
+  <g class="in" style="animation-delay:.75s">
+    <text x="64" y="296" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="18" fill="#9B9E9C">Production-grade iOS &amp; Android apps · payments · real-time · RTL</text>
+  </g>
+
+  <!-- chips -->
+    <g class="chip" style="animation-delay:0.90s"><rect x="64" y="330" width="92" height="34" rx="17.0" fill="#191C1D" stroke="#2A2D2D"/><text x="110.0" y="352.0" text-anchor="middle" font-family="SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="14" fill="#FFF4E6">Flutter</text></g>
+    <g class="chip" style="animation-delay:0.98s"><rect x="166" y="330" width="66" height="34" rx="17.0" fill="#191C1D" stroke="#2A2D2D"/><text x="199.0" y="352.0" text-anchor="middle" font-family="SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="14" fill="#FFF4E6">Dart</text></g>
+    <g class="chip" style="animation-delay:1.06s"><rect x="242" y="330" width="135" height="34" rx="17.0" fill="#191C1D" stroke="#2A2D2D"/><text x="309.5" y="352.0" text-anchor="middle" font-family="SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="14" fill="#FFF4E6">BLoC / Cubit</text></g>
+    <g class="chip" style="animation-delay:1.14s"><rect x="387" y="330" width="187" height="34" rx="17.0" fill="#191C1D" stroke="#2A2D2D"/><text x="480.5" y="352.0" text-anchor="middle" font-family="SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="14" fill="#FFF4E6">Clean Architecture</text></g>
+    <g class="chip" style="animation-delay:1.22s"><rect x="584" y="330" width="92" height="34" rx="17.0" fill="#191C1D" stroke="#2A2D2D"/><text x="630.0" y="352.0" text-anchor="middle" font-family="SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="14" fill="#FFF4E6">SignalR</text></g>
+    <g class="chip" style="animation-delay:1.30s"><rect x="686" y="330" width="66" height="34" rx="17.0" fill="#191C1D" stroke="#2A2D2D"/><text x="719.0" y="352.0" text-anchor="middle" font-family="SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="14" fill="#FFF4E6">.NET</text></g>
+
+  <!-- phone mockup -->
+  <g class="phone">
+    <rect x="948" y="54" width="234" height="324" rx="34" fill="#191C1D" stroke="#3A3E3E" stroke-width="3"/>
+    <g clip-path="url(#screen)">
+      <rect x="958" y="66" width="214" height="300" fill="#141617"/>
+      <rect x="1030" y="74" width="70" height="16" rx="8" fill="#000"/>
+      <!-- portfolio card -->
+      <rect x="970" y="102" width="190" height="86" rx="14" fill="url(#gCard)"/>
+      <text x="984" y="124" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="11" fill="#FFF4E6" opacity=".85">Secured Portfolio</text>
+      <text x="984" y="152" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="22" font-weight="700" fill="#fff">526.18</text>
+      <text x="1060" y="152" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="11" fill="#FFF4E6" opacity=".85">QAR / g</text>
+      <rect x="984" y="164" width="66" height="14" rx="7" fill="#fff" fill-opacity=".2"/>
+      <text x="992" y="175" font-family="SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="9" fill="#fff">24K ▲0.88%</text>
+      <!-- live row -->
+      <circle class="live" cx="978" cy="208" r="4" fill="#FF6B5A"/>
+      <text x="988" y="212" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="11" font-weight="600" fill="#F5F5F0">Live orders</text>
+      <!-- order rows -->
+      <g font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="10">
+        <rect x="970" y="224" width="190" height="40" rx="10" fill="#191C1D" stroke="#2A2D2D"/>
+        <text x="982" y="241" fill="#F5F5F0" font-weight="600">Order #28</text>
+        <text x="982" y="255" fill="#9B9E9C">35.00 EGP</text>
+        <rect x="1112" y="234" width="38" height="18" rx="9" fill="#A7F3D0" fill-opacity=".18"/>
+        <text x="1131" y="246" text-anchor="middle" fill="#A7F3D0" font-size="9">Active</text>
+
+        <rect x="970" y="272" width="190" height="40" rx="10" fill="#191C1D" stroke="#2A2D2D"/>
+        <text x="982" y="289" fill="#F5F5F0" font-weight="600">Order #27</text>
+        <text x="982" y="303" fill="#9B9E9C">45.00 EGP</text>
+        <rect x="1100" y="282" width="50" height="18" rx="9" fill="#FF6B5A" fill-opacity=".18"/>
+        <text x="1125" y="294" text-anchor="middle" fill="#FF6B5A" font-size="9">Delivered</text>
+
+        <rect x="970" y="320" width="190" height="40" rx="10" fill="#191C1D" stroke="#2A2D2D"/>
+        <text x="982" y="337" fill="#F5F5F0" font-weight="600">Order #26</text>
+        <text x="982" y="351" fill="#9B9E9C">42.00 EGP</text>
+        <rect x="1104" y="330" width="46" height="18" rx="9" fill="#FFF4E6" fill-opacity=".14"/>
+        <text x="1127" y="342" text-anchor="middle" fill="#FFF4E6" font-size="9">Pending</text>
+      </g>
+    </g>
+  </g>
+</svg>
