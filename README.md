@@ -158,6 +158,8 @@ class OsamaMohamedRizk extends FlutterDeveloper {
   </tr>
 </table>
 
+<!-- Personal projects (hidden — remove this comment wrapper to show again)
+
 ## 🚀 Personal projects
 
 <table>
@@ -193,6 +195,8 @@ class OsamaMohamedRizk extends FlutterDeveloper {
     </td>
   </tr>
 </table>
+
+-->
 
 ## 🐍 Contributions
 
