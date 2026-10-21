@@ -1,9 +1,9 @@
-<a href="https://osamamohamedr1.github.io">
+<a href="https://osamamohamedr1.web.app">
   <img src="assets/banner.svg" alt="Osama Mohamed Rizk — Flutter Developer @ InTheKloud" width="100%"/>
 </a>
 
 <p align="center">
-  <a href="https://osamamohamedr1.github.io"><img src="https://img.shields.io/badge/Portfolio-FF6B5A?style=for-the-badge&logo=googlechrome&logoColor=101112" alt="Portfolio"/></a>
+  <a href="https://osamamohamedr1.web.app"><img src="https://img.shields.io/badge/Portfolio-FF6B5A?style=for-the-badge&logo=googlechrome&logoColor=101112" alt="Portfolio"/></a>
   <a href="https://www.linkedin.com/in/osamamohamedr1/"><img src="https://img.shields.io/badge/LinkedIn-191C1D?style=for-the-badge&logo=linkedin&logoColor=A7F3D0" alt="LinkedIn"/></a>
   <a href="mailto:osamamohamedr1@gmail.com"><img src="https://img.shields.io/badge/Email-191C1D?style=for-the-badge&logo=gmail&logoColor=A7F3D0" alt="Email"/></a>
   <a href="https://wa.me/201063198136"><img src="https://img.shields.io/badge/WhatsApp-191C1D?style=for-the-badge&logo=whatsapp&logoColor=A7F3D0" alt="WhatsApp"/></a>
@@ -34,12 +34,12 @@ class OsamaMohamedRizk extends FlutterDeveloper {
 
 ## 🏆 Featured work
 
-> Commercial, closed-source client apps. Full case studies are on **[my portfolio →](https://osamamohamedr1.github.io/#work)**
+> Commercial, closed-source client apps. Full case studies are on **[my portfolio →](https://osamamohamedr1.web.app/#works)**
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://osamamohamedr1.github.io/#work"><img src="https://osamamohamedr1.github.io/assets/valuegold-cover.jpg" alt="Value Gold app" width="100%"/></a>
+      <a href="https://osamamohamedr1.web.app/#works"><img src="https://osamamohamedr1.web.app/assets/valuegold-cover.jpg" alt="Value Gold app" width="100%"/></a>
       <h3>🥇 Value Gold</h3>
       <sub><b>Gold e-commerce &amp; investment platform · Qatar</b></sub>
       <ul>
@@ -50,7 +50,7 @@ class OsamaMohamedRizk extends FlutterDeveloper {
       <code>Flutter</code> <code>BLoC</code> <code>Clean Architecture</code> <code>SignalR</code> <code>SkipCash</code>
     </td>
     <td width="50%" valign="top">
-      <a href="https://osamamohamedr1.github.io/#work"><img src="https://osamamohamedr1.github.io/assets/vtreena-cover.jpg" alt="Vtreena Merchant app" width="100%"/></a>
+      <a href="https://osamamohamedr1.web.app/#works"><img src="https://osamamohamedr1.web.app/assets/vtreena-cover.jpg" alt="Vtreena Merchant app" width="100%"/></a>
       <h3>🛍️ Vtreena Merchant</h3>
       <sub><b>Merchant management &amp; e-commerce platform</b></sub>
       <ul>
@@ -211,7 +211,7 @@ class OsamaMohamedRizk extends FlutterDeveloper {
 I'm always happy to talk about **Flutter**, fintech and e-commerce apps, freelance projects, or new opportunities.
 
 <p>
-  <a href="https://osamamohamedr1.github.io"><img src="https://img.shields.io/badge/View_Portfolio-FF6B5A?style=for-the-badge&logo=googlechrome&logoColor=101112" alt="View portfolio"/></a>
+  <a href="https://osamamohamedr1.web.app"><img src="https://img.shields.io/badge/View_Portfolio-FF6B5A?style=for-the-badge&logo=googlechrome&logoColor=101112" alt="View portfolio"/></a>
   <a href="mailto:osamamohamedr1@gmail.com"><img src="https://img.shields.io/badge/osamamohamedr1%40gmail.com-191C1D?style=for-the-badge&logo=gmail&logoColor=A7F3D0" alt="Email"/></a>
   <a href="https://www.linkedin.com/in/osamamohamedr1/"><img src="https://img.shields.io/badge/Connect-191C1D?style=for-the-badge&logo=linkedin&logoColor=A7F3D0" alt="LinkedIn"/></a>
 </p>
