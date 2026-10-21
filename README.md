@@ -215,5 +215,3 @@ I'm always happy to talk about **Flutter**, fintech and e-commerce apps, freelan
   <a href="mailto:osamamohamedr1@gmail.com"><img src="https://img.shields.io/badge/osamamohamedr1%40gmail.com-191C1D?style=for-the-badge&logo=gmail&logoColor=A7F3D0" alt="Email"/></a>
   <a href="https://www.linkedin.com/in/osamamohamedr1/"><img src="https://img.shields.io/badge/Connect-191C1D?style=for-the-badge&logo=linkedin&logoColor=A7F3D0" alt="LinkedIn"/></a>
 </p>
-
-<img src="assets/footer.svg" alt="Thanks for stopping by" width="100%"/>
